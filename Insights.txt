@@ -1,0 +1,38 @@
+1. Overall business performance : 
+The total revenue is 15,95,831 generated from 10,000 orders, with an average order value of 160.
+Revenue per order is moderate (160) means customers are not spending high per purchase.
+Quantity sold (15,504) vs total orders (10,000). It means around 2 items per order (low basket size).
+
+Interpretation : Customers are placing frequent but small size orders.
+
+Action : Interduce combo offers, use cross selling & upselling.
+
+
+2. Category performance : Revenue is highly concentrated in the Beauty category, contributing majority of the total sales, while Electronics and Clothing are underperform significantly.
+
+Interpretation : Business is over depending on one category and electronics is almost negligible.
+
+Action : Reduce risk by expanding other categories and investigating why electronics is underperforming (demand?/pricing?).
+
+
+3. Country wise performance : Revenue is concentrated in few key countries like Brazil, Australia, India, Canada, while several regions show relatively low contribution.
+
+Interpretation : Opportunity to scale several regions like South Africa, Japan, Spain these are low performing countries. 
+
+Action : 
+Focus marketing on top-performing countries
+Analyze low-performing countries (localization issue? / Low demand? / Logistics problem?)
+
+
+4. Customer segment analysis : Revenue is almost splits between High Value and Low Value customers, While Mid Value customers are contributed less.
+
+Interpretation : Customers are not moving from low to mid and mid to high.
+
+Action : Create strategies to convert low-value customer to mid-value and some targeted offers & loyalty programs.
+
+
+5. Year wise revenue trend : Revenue shows growth from 2022 to 2023, followed by decline in 2024 and significant drop in 2025.
+
+Interpretation : Business peaked in 2023 and possible decline demands due to operations afterward.
+
+Action : Investigate, market changes?, loss of customers?, or seasonal / incomplete 2025 data?
