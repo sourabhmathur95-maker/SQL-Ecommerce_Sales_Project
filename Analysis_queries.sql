@@ -21,12 +21,14 @@ FROM orders;
 
 -- Moving average 
 SELECT 
-	order_id,
-    order_date,
-    total_price,
-    ROUND(AVG(total_price) OVER(ORDER BY order_date
-    ROWS BETWEEN 2 PRECEDING AND CURRENT ROW), 2) AS moving_avg
-FROM orders;
+	o.order_id,
+    o.order_date,
+    o.total_price,
+    p.category,
+    ROUND(AVG(total_price) OVER(PARTITION BY p.category ORDER BY order_date), 2) AS moving_avg
+	FROM orders o 
+	JOIN products p 
+ON p.product_id = o.product_id;
 
 
 -- Top customers by ranking 
